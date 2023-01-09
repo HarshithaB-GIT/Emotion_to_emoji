@@ -1,0 +1,36 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+  font-family:monospace;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+.e
+{
+  font-size: 40px;
+}
+.em
+{
+  font-size:48px;
+}
+label {
+background-color: white;
+color: green;
+padding:7px;
+border-radius: 10px;
+}
+.heading {
+  font-size:40px;
+  font-variant: small-caps;
+  font-weight:bold;
+  letter-spacing:4px;
+}
